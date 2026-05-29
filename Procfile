@@ -1,1 +1,1 @@
-worker: python validator.py
+worker: python validator_bot.py
